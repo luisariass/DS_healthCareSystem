@@ -1,0 +1,35 @@
+:root {
+    --white: rgba(255, 255, 255, 1);
+    --primary: rgba(66, 180, 238, 1);
+    --black: rgba(5, 17, 20, 1);
+    --body-base-font-family: "Inter-Regular", Helvetica;
+    --body-base-font-weight: 400;
+    --body-base-font-size: 16px;
+    --body-base-letter-spacing: 0px;
+    --body-base-line-height: 160.0000023841858%;
+    --body-base-font-style: normal;
+    --subheading-base-font-family: "Inter-Medium", Helvetica;
+    --subheading-base-font-weight: 500;
+    --subheading-base-font-size: 22px;
+    --subheading-base-letter-spacing: 0px;
+    --subheading-base-line-height: 150%;
+    --subheading-base-font-style: normal;
+    --heading-base-font-family: "Inter-Medium", Helvetica;
+    --heading-base-font-weight: 500;
+    --heading-base-font-size: 32px;
+    --heading-base-letter-spacing: 0px;
+    --heading-base-line-height: 139.9999976158142%;
+    --heading-base-font-style: normal;
+    --subtitle-base-font-family: "Inter-SemiBold", Helvetica;
+    --subtitle-base-font-weight: 600;
+    --subtitle-base-font-size: 44px;
+    --subtitle-base-letter-spacing: 0px;
+    --subtitle-base-line-height: 129.99999523162842%;
+    --subtitle-base-font-style: normal;
+    --title-base-font-family: "Inter-SemiBold", Helvetica;
+    --title-base-font-weight: 600;
+    --title-base-font-size: 62px;
+    --title-base-letter-spacing: 0px;
+    --title-base-line-height: 120.00000476837158%;
+    --title-base-font-style: normal;
+}
